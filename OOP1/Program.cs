@@ -32,7 +32,7 @@ namespace OOP1
             
             //int,double,bool .... Değer Tip-- Atamalar tamamen değer üstünden olur
             //Array, Class , Abstract clas, interface ..... Referans Tip // Atamalar Bellekteki adresi ile yapılır
-            
+            //
         }
     }
 }

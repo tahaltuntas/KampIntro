@@ -9,7 +9,7 @@ namespace KampIntro
 
             //type safety : tip güvenliği
             // Do not repeat yourself - Kendini tekrarlama
-            // değer tutucu, alias
+            // değer tutucu,  alias
 
             string kategoriEtiketi = "Kategori";
             int ogrenciSayisi = 3200;

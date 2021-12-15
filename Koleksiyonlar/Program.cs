@@ -13,7 +13,7 @@ namespace Koleksiyonlar
             Console.WriteLine(isimler[3]);
             
             Console.WriteLine(isimler[4]);
-
+            //
         }
     }
 }
